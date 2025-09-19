@@ -15,9 +15,9 @@ sidebar:
   # Sidebar links
   email: seanmnguyen.smn@gmail.com
   phone: 405 370 5920
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://seanmn101.github.io/ # Include the full website URL, including "http://" or "https://".
+  website: # Include the full website URL, including "http://" or "https://".
   linkedin: 
   xing: 
   github: seanmn101
@@ -50,18 +50,14 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I am a current graduate Computer Science student at the University of Oklahoma, slated to graduate December 2026.
+    My research involves event-related potentials and their applications towards large-language models.
 education:
   title: Education
   info:
   - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+    university: University of Oklahoma
+    time: 2025 - 2026
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -70,9 +66,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: BSc in Computer Science
+    university: University of Oklahoma
+    time: 2021 - 2023
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
